@@ -1,6 +1,6 @@
 # DevNotes - The Ultimate Note-Taking App for Developers
 
-[![DevNotes](https://mindenry.github.io/DevNotes/)](https://mindenry.github.io/DevNotes/)
+[![DevNotes](./web.png)](https://mindenry.github.io/DevNotes/)
 
 DevNotes is a powerful and intuitive note-taking application tailored for developers. Whether you're storing code snippets, brainstorming ideas, or drafting technical documentation, DevNotes provides a seamless experience with a rich feature set and a sleek, modern interface.
 
